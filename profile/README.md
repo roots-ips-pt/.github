@@ -42,7 +42,7 @@ Cada projeto do grupo possui um repositório próprio, com autonomia técnica e 
 
 🇵🇹 **Português (PT-PT)**
 
-Toda a comunicação interna do grupo ROOTS — incluindo reuniões, atas, discussões informais, e issues relacionadas com ideias, organização e coordenação — deve ser realizada em português europeu.
+Toda a comunicação interna do grupo ROOTS — incluindo reuniões, atas, discussões informais, propostas de ideias de projetos, organização e coordenação — deve ser realizada em português europeu.
 
 O objetivo é garantir inclusão, participação fácil de todos os membros e fluidez no trabalho colaborativo.
 
