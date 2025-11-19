@@ -1,6 +1,6 @@
 ![ROOTS Logo](roots-logo-wide.png)
 
-O **ROOTS**, é um grupo informal da **Escola Superior de Tecnologia de Setúbal** dedicado a **Linux**, **_software livre_**, **desenvolvimento _open source_** e **_hardware aberto_**.
+O **ROOTS** é um grupo informal da **Escola Superior de Tecnologia de Setúbal** dedicado a **Linux**, **_software livre_**, **desenvolvimento _open source_** e **_hardware aberto_**.
 
 🎯 O ROOTS tem os seguintes objetivos:
 
@@ -12,7 +12,8 @@ O **ROOTS**, é um grupo informal da **Escola Superior de Tecnologia de Setúbal
 
 * Ser um espaço de partilha, aprendizagem e inovação.
 
-📣 O ROOTS está aberto a toda a comunidade do **Instituto Politécnico de Setúbal (IPS)**: estudantes, docentes e funcionários. Não é necessária experiência prévia - apenas curiosidade, vontade de aprender e espírito de colaboração.
+> [!NOTE]
+> ❤️ O ROOTS está aberto a toda a comunidade do **Instituto Politécnico de Setúbal (IPS)**: estudantes, docentes e funcionários. Não é necessária experiência prévia - apenas curiosidade, vontade de aprender e espírito de colaboração.
 
 
 ## 🙋 Como participar
@@ -35,9 +36,9 @@ Cada projeto do grupo possui um repositório próprio, com autonomia técnica e 
 
 **Resumo / Summary**
 
-* Comunicação interna → Português
+* 📢 Comunicação interna / Internal communication → Português
 
-* Documentação técnica de projetos → English
+* 📝 Documentação técnica de projetos / Technical documentation → English
 
 🇵🇹 **Português (PT-PT)**
 
