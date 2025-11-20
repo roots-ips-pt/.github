@@ -1,6 +1,6 @@
 ![ROOTS Logo](roots-logo-wide.png)
 
-O **ROOTS** é um grupo informal da **Escola Superior de Tecnologia de Setúbal** dedicado a **Linux**, **_software livre_**, **desenvolvimento _open source_** e **_hardware aberto_**.
+O **ROOTS** 🌱 é um grupo informal com origem na **Escola Superior de Tecnologia de Setúbal** dedicado a **Linux**, **_software livre_**, **desenvolvimento _open source_** e **_hardware aberto_**.
 
 🎯 O ROOTS tem os seguintes objetivos:
 
