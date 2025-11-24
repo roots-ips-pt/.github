@@ -8,6 +8,8 @@ O **ROOTS** 🌱 é um grupo informal com origem na **Escola Superior de Tecnolo
 
 * Promover workshops práticos sobre Linux, Git, programação e hardware;
 
+* Promover o uso de _software livre_ e ferramentas _open source_ entre a comunidade;
+ 
 * Envolver participantes em projetos reais, desde software até soluções integradas de hardware/software;
 
 * Ser um espaço de partilha, aprendizagem e inovação.
@@ -24,11 +26,13 @@ Se tens interesse em participar, consulta o repositório [roots-hub](https://git
 
 ## 🌐 Estrutura da organização
 
-A nossa organização está estruturada em dois repositórios principais:
+A nossa organização está estruturada em três repositórios principais:
 
-* [roots-hub](https://github.com/roots-ips-pt/roots-hub) — Documentação institucional, normas internas, recursos comuns e orientações de trabalho.
+* **[roots-hub](https://github.com/roots-ips-pt/roots-hub)** — Documentação institucional, normas internas, recursos comuns e orientações de trabalho.
 
-* [roots-projects](https://github.com/roots-ips-pt/roots-projects) — Estrutura agregadora dos projetos ativos, incluindo templates, convenções e referências para os repositórios individuais de cada iniciativa.
+* **[roots-projects](https://github.com/roots-ips-pt/roots-projects)** — Estrutura agregadora dos projetos ativos, incluindo templates, convenções e referências para os repositórios individuais de cada iniciativa.
+
+* **[roots-events](https://github.com/roots-ips-pt/roots-events)** — Calendário, informações e materiais de arquivo de todos os eventos do ROOTS.
 
 Cada projeto do grupo possui um repositório próprio, com autonomia técnica e acompanhamento colaborativo.
 
