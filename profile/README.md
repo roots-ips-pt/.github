@@ -24,7 +24,7 @@ O **ROOTS** 🌱 é um grupo informal com origem na **Escola Superior de Tecnolo
 
 Se tens interesse em participar, consulta o repositório [roots-hub](https://github.com/roots-ips-pt/roots-hub) para conhecer as normas, processos e canais de comunicação.
 
-## 🌐 Estrutura da organização
+## 🏘️ Estrutura da organização
 
 A nossa organização está estruturada em três repositórios principais:
 
